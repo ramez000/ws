@@ -1,7 +1,7 @@
-# MeowSab Framework 
+# Kintoun Framework 
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/39/e8/b0/39e8b01f0a545e3753d8ba19c65745dd.jpg" alt="Thumbnail" />
+  <img src= "https://i.imgur.com/PwJXwY5.jpeg" alt="Thumbnail" />
 </p>
 
 A professional and powerful WhatsApp bot framework built on Baileys. Create sophisticated bots with ease - just initialize the bot, define your message handlers and routes, and you're ready to go. Features built-in keyboard system, message parsing, middleware support, and comprehensive event handling for building production-ready WhatsApp bots.
@@ -23,18 +23,18 @@ A professional and powerful WhatsApp bot framework built on Baileys. Create soph
 ## Installation
 
 ```bash
-npm install github:deveni0/ws
+npm install github:ramez000/kn
 ```
 
 ## Quick Start
 
 ```javascript
-import { Client } from 'meowsab';
+import { Client } from 'Kintoun';
 
 const bot = new Client({
-  phoneNumber: "20123456789",
+  phoneNumber: "249962416396",
   prefix: ["!", "."],
-  owners: ["1234567890@s.whatsapp.net"]
+  owners: [1234567890@s.whatsapp.net"]
 });
 
 await bot.start();
@@ -45,8 +45,7 @@ await bot.start();
 
 For questions, support, or collaboration, feel free to contact the developer:
 
-- **Owner**: [Owner Contact](https://wa.me/201066826750)
-- **Channel WhatsApp**: [Channel WhatsApp](https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v) 
+- **Owner**: [Owner Contact](https://wa.me/249962416396)
 
 ### 🙌 Contributors
 
@@ -55,24 +54,10 @@ Thanks to the following awesome contributors who help improve this project 💖
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/deveni0">
-        <img src="https://github.com/deveni0.png" width="80px;" style="border-radius:50%;" alt="Developer"/>
+      <a href="https://github.com/ramez000">
+        <img src="https://github.com/ramez000.png" width="80px;" style="border-radius:50%;" alt="Developer"/>
         <br />
         <sub><b>Youssefv</b></sub>
-      </a>
-    </td>
-<td align="center">
-      <a href="https://github.com/XBej">
-        <img src="https://github.com/XBej.png" width="80px;" style="border-radius:50%;" alt="Contributor"/>
-        <br />
-        <sub><b>OmarAshraf</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x-emam">
-        <img src="https://github.com/x-emam.png" width="80px;" style="border-radius:50%;" alt="Contributor"/>
-        <br />
-        <sub><b>Emam</b></sub>
       </a>
     </td>
   </tr>
