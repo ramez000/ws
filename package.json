@@ -1,20 +1,20 @@
 {
-  "name": "MeowSub",
+  "name": "Kintoun",
   "version": "1.0.2",
   "description": "A professional and powerful WhatsApp bot framework built on Baileys. Create sophisticated bots with ease - just initialize the bot, define your message handlers and routes, and you're ready to go. Features built-in keyboard system, message parsing, middleware support, and comprehensive event handling for building production-ready WhatsApp bots.",
   "license": "MIT",
   "author": {
-    "name": "VENi Youssefv",
-    "url": "https://github.com/deveni0"
+    "name": "GOKU RAMEZ",
+    "url": "https://github.com/ramez000"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deveni0/ws.git"
+    "url": "git+https://github.com/ramez000/kn.git"
   },
   "bugs": {
-    "url": "https://github.com/deveni0/ws/issues"
+    "url": "https://github.com/ramez000/kn/issues"
   },
-  "homepage": "https://github.com/deveni0/ws#readme",
+  "homepage": "https://github.com/ramez000/kn#readme",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -42,8 +42,8 @@
   "keywords": [
     "whatsapp",
     "bot",
-    "MeowSub",
-    "meowsub",
+    "Kintoun",
+    "Kintoun",
     "baileys",
     "whatsapp-bot",
     "chatbot",
