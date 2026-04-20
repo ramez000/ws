@@ -57,7 +57,7 @@ Thanks to the following awesome contributors who help improve this project 💖
       <a href="https://github.com/ramez000">
         <img src="https://github.com/ramez000.png" width="80px;" style="border-radius:50%;" alt="Developer"/>
         <br />
-        <sub><b>Youssefv</b></sub>
+        <sub><b>RAMEZ</b></sub>
       </a>
     </td>
   </tr>
